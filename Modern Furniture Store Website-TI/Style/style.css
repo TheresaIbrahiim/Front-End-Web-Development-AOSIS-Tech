@@ -234,7 +234,7 @@ body{
 .icon {
   width: 42px;
   height: 50px;
-  background-image: url("/image/service-icon.png");
+  background-image: url("../image/service-icon.png");
   background-repeat: no-repeat;
   cursor: pointer;
   transition: background-position 0.2s ease-in-out;
