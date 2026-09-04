@@ -4,7 +4,7 @@ A responsive tourism and travel website designed to showcase the beauty and dest
 
 ## 🌐 Live Demo
 
-[View Live Website](#https://theresaibrahiim.github.io/Front-End-Web-Development-AOSIS-Tech/Lebanon%20Tourism%20&%20Travel%20Website-TI/index.html#)
+[View Live Website](https://theresaibrahiim.github.io/Front-End-Web-Development-AOSIS-Tech/Lebanon%20Tourism%20&%20Travel%20Website-TI/index.html#)
 
 ## ✨ Features
 
